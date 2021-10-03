@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.main{
+    
+    
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+.container{
+    width: 1140px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.nabar{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+.ota{
+    display:flex;
+    align-items: center;
+
+}
+
+.list{
+    display: flex;
+    margin: 0 auto;
+}
+
+li{
+    margin:  10px;
+    color: black;
+    justify-content: center;
+}
+
+a{
+    color: rgb(235, 228, 228);
+}
+
+.link{
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+}
+
+ul{
+    margin: 0 auto;
+}
+
+section{
+    background-image: url("./images/Rectangle 31.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+}
+
+.here{
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.here_p{
+    color: rgb(179, 180, 180);
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.location_text{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+.location_p{
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(31, 29, 29);
+}
+
+.location{
+    margin-top: 100px;
+    
+}
+
+.location_img{
+    margin-left: 20px;
+    margin-top: 40px;
+    height: 500px;
+
+    margin-bottom: 100px;
+    width: 380px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .3)
+}
+
+.img_1{
+    width: 380px;
+
+    border-radius: 20px;
+}
+
+.img_text{
+    color: black;
+}
+
+.imgla{
+    display: flex;
+}
+
+.lacation_text_h1{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.lacation_text_p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.great_center{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.text_great{
+    color: black;
+    font-size: 20px;
+}
+
+.chima_text{
+    display: flex;
+    margin-top: 10px;
+    
+}
+h3{
+    margin-left: 10px;
+    
+}
+
+.china_text{
+    display: flex;
+    margin-top: 10px;
+}
+.star{
+    margin-left: 50px;
+}
+.great_son{
+    margin-left: 10px;
+}
+
+.text{
+    font-size: 20px;
+    margin-top: 10px;
+    color: darkgray;
+}
+span{
+    color: black;
+}
+.from_text{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.from_text_h4{
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(95, 90, 90);
+}
+.img_1{
+    position: absolute;
+    bottom: 140px;
+    width: 300px;
+}
